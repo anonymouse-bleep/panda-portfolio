@@ -18,7 +18,7 @@ npx panda-portfolio <command>
 
 ## Creating the config file
 
-please make sure that you have the profile photo as well as resume file in the same directory
+Please make sure that you have the profile photo as well as resume file in the same directory.
 
 ```javascript
 panda init
